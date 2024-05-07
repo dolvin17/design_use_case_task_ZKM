@@ -21,7 +21,8 @@ In quantum mechanics, entangled particles share a unique connection. When you me
 
 <img width="741" alt="ZKM x F3 Build3HER - Workshop Task" src="https://github.com/dolvin17/design_use_case_task_ZKM/assets/101130252/d78c76ea-5f71-4bc8-8818-8388e5d8902c">
 
-** design_use_case_task_ZKM ** 
+**Design_use_case_task_ZKM** 
+
 Here is my idea:
 
 `ZKM-based KYC verification`
