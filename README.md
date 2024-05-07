@@ -1,4 +1,5 @@
-**Complete this form to earn ZKM POINTS. POINTS can be used to unlock ZKM-exclusive opportunities. **
+**Complete this form to earn ZKM POINTS. POINTS can be used to unlock ZKM-exclusive opportunities.**
+
 ## 1. Define universal settlement?
 Metaphorically speaking it’s finalising some kind of operation where all of the obligations between any of the involved parties are satisfied. Defining universal settlementIs, is the process of finalising a transaction, so we can say that transaction isn’t able to be reverted once it was executed. 
 
@@ -15,7 +16,10 @@ In quantum mechanics, entangled particles share a unique connection. When you me
 - We must start mentioning interoperability: ZKM allows communication between incompatible or isolated blockchains no matter if they are EVM/MVM/SVM/NVM..  using ZK proofs.
 - The other massive point is trustless: the quantum network doesn’t depend on any kind of external third-party validator, it has the capabilities of cross bridging without having to implement the architecture of an actual bridge.
 - Also this Quantum Network can enable Native Liquidity across this incompatible chains, for example any funds that a user deposits into an L1 within the quantum network can also be used across all the L2 within this network and users can also withdraw to any other L1.
-- 
+
+**first task completed succesfuly** ✅
+
+<img width="741" alt="ZKM x F3 Build3HER - Workshop Task" src="https://github.com/dolvin17/design_use_case_task_ZKM/assets/101130252/d78c76ea-5f71-4bc8-8818-8388e5d8902c">
 
 ** design_use_case_task_ZKM ** 
 Here is my idea:
@@ -41,3 +45,7 @@ Regulatory Compliance: Our platform uses verified information to assess customer
 Summarizing a lot: we can use ZKM to generate zkproofs that allow us to create more efficient KYC processes and that truly protect the security of users 1000%
 
 Thank you for reading this. I think I will try on this if I have a chance in a hackathon. 🔥
+
+**second task completed succesfuly** ✅
+
+<img width="489" alt="image" src="https://github.com/dolvin17/design_use_case_task_ZKM/assets/101130252/38921879-af27-4d9a-9167-14e3888d36f0">
